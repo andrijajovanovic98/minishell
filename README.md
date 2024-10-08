@@ -1,3 +1,8 @@
+
+![minishellscore](https://github.com/user-attachments/assets/9fdacdba-2303-4f95-84e7-2d91202bc27e)
+
+
+
 Our result with tester: https://github.com/zstenger93/42_minishell_tester:
 
 To test it, just compile it with the "make tester" command
