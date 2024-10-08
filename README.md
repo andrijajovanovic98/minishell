@@ -1,5 +1,4 @@
-Our result with tester
-nger93/42_minishell_tester:
+Our result with tester: https://github.com/zstenger93/42_minishell_tester:
 
 To test it, just compile it with the "make tester" command
 
