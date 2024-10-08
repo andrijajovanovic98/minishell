@@ -1,4 +1,4 @@
-Our result with tester: https://github.com/zste![cub3Dscore](https://github.com/user-attachments/assets/a6cc570e-0f97-464c-affd-eabc55b99a43)
+Our result with tester
 nger93/42_minishell_tester:
 
 To test it, just compile it with the "make tester" command
