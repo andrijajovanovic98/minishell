@@ -39,6 +39,8 @@ make
 ./minishell
 ```
 
+---
+
 
 ![minishellscore](https://github.com/user-attachments/assets/9fdacdba-2303-4f95-84e7-2d91202bc27e)
 
